@@ -22,6 +22,7 @@ Link para o [Canvanizer](https://next.canvanizer.com/canvas/rqfvsnaavozEe)
 
 
 ## Video 
+Link para o video no [Youtube](https://youtu.be/mKvkvu0Zq1E)
 
 
 ## Links e fontes
