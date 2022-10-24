@@ -1,5 +1,9 @@
 # Mercado de Games
 
+# Aluno e RA
+Pedro Arthur de Sousa Mathias Machado
+
+2111164
 
 
 ##  Introdução
