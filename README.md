@@ -37,3 +37,8 @@ https://www1.folha.uol.com.br/mpme/2022/08/mercado-de-games-cresce-no-pais-e-atr
 https://meuartigo.brasilescola.uol.com.br/atualidades/jogos-eletronicos-influencias-positivas-e-negativas-dos-games-em-meio-a-sociedade.htm
 
 https://www.gov.br/mcom/pt-br/noticias/2022/setembro/mercado-dos-games-deve-ser-ampliado-com-a-chegada-do-5g#:~:text=O%20Brasil%20j%C3%A1%20%C3%A9%20o,com%20levantamento%20da%20consultoria%20Newzoo.
+
+
+# Contribuições
+
+https://github.com/Rodrigosilva028/Trab_dados/blob/main/README.md
