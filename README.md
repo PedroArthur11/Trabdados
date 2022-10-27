@@ -12,7 +12,7 @@ Trabalho de Data Science
 4° Semestre de Economia pelo IDP-Instituto de Desenvolvimento e Pesquisa de Brasília
 
 
-O mercado de jogos eletronicos é um dos mais bem sucedidos no mundo, podendo ser comparado ao da musica e do cinema JUNTOS.
+O mercado de jogos eletronicos é um dos mais bem sucedidos no mundo, podendo ser comparado ao da musica e do cinema JUNTOS. Por isso resolvi trazer este trabalho visando demonstrar o crescimento e a grande indústria por trás dos games.
 ##  Cama de Gato do Futuro
 - Link para o [Miro](https://miro.com/app/board/uXjVPKqRwS0=/)
 ![camadegatocompleta](https://user-images.githubusercontent.com/116168670/197637719-821f548b-414e-49b4-a74d-e56dfac9793f.png)
