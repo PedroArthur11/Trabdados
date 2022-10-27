@@ -1,9 +1,9 @@
 # Mercado de Games
 
 # Aluno e RA
-Pedro Arthur de Sousa Mathias Machado
+- Pedro Arthur de Sousa Mathias Machado
 
-2111164
+- 2111164
 
 
 ##  Introdução
@@ -14,19 +14,19 @@ Trabalho de Data Science
 
 O mercado de jogos eletronicos é um dos mais bem sucedidos no mundo, podendo ser comparado ao da musica e do cinema JUNTOS.
 ##  Cama de Gato do Futuro
-Link para o [Miro](https://miro.com/app/board/uXjVPKqRwS0=/)
+- Link para o [Miro](https://miro.com/app/board/uXjVPKqRwS0=/)
 ![camadegatocompleta](https://user-images.githubusercontent.com/116168670/197637719-821f548b-414e-49b4-a74d-e56dfac9793f.png)
 
 
 
 ##  Canvas
-Link para o [Canvanizer](https://next.canvanizer.com/canvas/rqfvsnaavozEe)
+- Link para o [Canvanizer](https://next.canvanizer.com/canvas/rqfvsnaavozEe)
 
 ![canvascompleto](https://user-images.githubusercontent.com/116168670/197638383-26ed4050-6849-41a8-aed1-e9d4ccfe8167.png)
 
 
 ## Video 
-Link para o video no [Youtube](https://youtu.be/mKvkvu0Zq1E)
+- Link para o video no [Youtube](https://youtu.be/mKvkvu0Zq1E)
 
 
 ## Links e fontes
